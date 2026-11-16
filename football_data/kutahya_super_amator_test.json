@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": "1.9.135",
+  "leagueId": "kutahya_super_amator",
+  "leagueName": "Kütahya Süper Amatör Ligi",
+  "featuredTeams": ["Simav Belediyespor", "Beycespor"],
+  "dataStatus": "unverified",
+  "publishAllowed": false,
+  "permissionVerified": false,
+  "fixtureVerified": false,
+  "firebaseWrite": false,
+  "fcmSent": false,
+  "candidateCount": 0,
+  "matches": [],
+  "byes": [],
+  "notice": "V1.9.135 bağlantı testi. Gerçek maç verisi içermez; yayın için kullanılamaz."
+}
