@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "generatorVersion": "v153-template",
+  "leagueId": "kutahyaspor",
+  "leagueName": "Kütahyaspor",
+  "featuredTeams": ["Kütahyaspor"],
+  "dataStatus": "unverified",
+  "publishAllowed": false,
+  "permissionVerified": false,
+  "fixtureVerified": false,
+  "firebaseWrite": false,
+  "fcmSent": false,
+  "candidateCount": 0,
+  "matches": [],
+  "byes": [],
+  "notice": "Yalnızca TEST şablonu; doğrulanmış fikstür değildir."
+}
